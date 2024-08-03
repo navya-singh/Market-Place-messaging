@@ -17,6 +17,7 @@ The Files class, which contains four methods, will prompt the user for an input 
 
 The FrontEnd class which is where the main method of the program will run. This class combines all methods and classes, actually putting together the whole program. It creates an interface for a user, either a seller or buyer, to either create or log into an account and interact with buyers and sellers.
 
+*the text files in this repository simulates what the messages between users may look like, as well as seller lists and buyer lists.
 
 Project Notes for Clarification:
 ~Blocking will only prevent the blocked user from messaging the user doing the blocking. The user doing the blocking will still be able to message the user they block. If they would like to not see a user as an option to message, then they may hide the user. They will still be able to message the user if they know the users name, but they will not see the user displayed on the list of Users to Message.
